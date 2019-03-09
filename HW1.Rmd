@@ -1,5 +1,5 @@
 ---
-title: "Homework 1"
+title: "Homework1"
 author: "Mehdi Hirari"
 date: "3/9/2019"
 output: html_document
